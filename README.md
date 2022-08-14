@@ -1,2 +1,2 @@
-# DFRobot_OxygenSensor
-Micropython implementation of DFRobot_Oxygen Sensor
+# SEN0322_OxygenSensor
+Micropython library for Gravity: Electrochemical Oxygen Sensor (SEN0322)
